@@ -1,18 +1,18 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Civil Engineering.
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Concrete Technology.
+<b> Experiment|     <b> 10.Angularity number of coarse aggregate.
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Ishant Singhal
+<b>Name of Developer | <b> Dr. Ishant Singhal
 :--|:--|
-<b> Institute | <b>  Dayalbagh Education Insitute
+<b> Institute | <b>  Dayalbagh Educational Insitute
 <b> Email id|     <b>  ishantsinghal@dei.ac.in
 <b> Department |  Civil Engineering
 
