@@ -86,7 +86,7 @@ function myStopFunction() {
   }
   
   function myGreeting3Step2() {
-    document.querySelector("#back-to-step1").style.visibility = "visible";
+    // document.querySelector("#back-to-step1").style.visibility = "visible";
     document.querySelector("#next-to-step3").style.visibility = "visible";
   
     myStopFunction();
@@ -135,7 +135,7 @@ function myStopFunction() {
     document.querySelector("#gif1-step3").style.visibility = "hidden";
     document.querySelector("#png2-step3").style.visibility = "visible";
     document.querySelector("#next-to-step4").style.visibility = "visible";
-    document.querySelector("#back-to-step2").style.visibility = "visible";
+    // document.querySelector("#back-to-step2").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -182,7 +182,7 @@ function myStopFunction() {
   
   function myGreeting1Step4() {
     document.querySelector("#next-to-step5").style.visibility = "visible";
-    document.querySelector("#back-to-step3").style.visibility = "visible";
+    // document.querySelector("#back-to-step3").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -245,7 +245,7 @@ function myStopFunction() {
   
   function myGreeting2Step5(){
     document.querySelector("#next-to-step6").style.visibility = "visible";
-    document.querySelector("#back-to-step4").style.visibility = "visible";
+    // document.querySelector("#back-to-step4").style.visibility = "visible";
   }
   
   // STEP 6
@@ -290,7 +290,7 @@ function myStopFunction() {
   
   function myGreeting1Step6(){
     document.querySelector("#next-to-step7").style.visibility = "visible";
-    document.querySelector("#back-to-step5").style.visibility = "visible";
+    // document.querySelector("#back-to-step5").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -333,7 +333,7 @@ function myStopFunction() {
   
   function myGreeting1Step7(){
     document.querySelector("#next-to-step8").style.visibility = "visible";
-    document.querySelector("#back-to-step6").style.visibility = "visible";
+    // document.querySelector("#back-to-step6").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -379,7 +379,7 @@ function myStopFunction() {
   
   function myGreeting1Step8(){
     document.querySelector("#next-to-step9").style.visibility = "visible";
-    document.querySelector("#back-to-step7").style.visibility = "visible";
+    // document.querySelector("#back-to-step7").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -498,7 +498,7 @@ function myStopFunction() {
   
   function myGreeting5Step9(){
     document.querySelector("#next-to-step10").style.visibility = "visible";
-    document.querySelector("#back-to-step8").style.visibility = "visible";
+    // document.querySelector("#back-to-step8").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -538,7 +538,7 @@ function myStopFunction() {
   
     document.querySelector("#gif1-step10").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting1Step10, 5500);
+    myTimeout = setTimeout(myGreeting1Step10, 6000);
   }
   
   function moveplate2Step10(){
@@ -598,6 +598,8 @@ function myStopFunction() {
   // Time Functions of STEP 10
   
   function myGreeting1Step10(){
+    document.querySelector("#gif1-step10").style.visibility = "hidden";
+    // document.querySelector("#png2-step10").style.visibility = "visible";
     document.querySelector("#arr2-step10").style.visibility = "visible";
     document.querySelector("#trans2-step10").style.visibility = "visible";
   
@@ -605,6 +607,8 @@ function myStopFunction() {
   }
   
   function myGreeting2Step10(){
+    document.querySelector("#gif2-step10").style.visibility = "hidden";
+    // document.querySelector("#png3-step10").style.visibility = "visible";
     document.querySelector("#arr3-step10").style.visibility = "visible";
     document.querySelector("#trans3-step10").style.visibility = "visible";
   
@@ -619,6 +623,8 @@ function myStopFunction() {
   }
   
   function myGreeting4Step10(){
+    document.querySelector("#gif4-step10").style.visibility = "hidden";
+    // document.querySelector("#png4-step10").style.visibility = "visible";
     document.querySelector("#arr5-step10").style.visibility = "visible";
     document.querySelector("#trans5-step10").style.visibility = "visible";
   
@@ -641,7 +647,7 @@ function myStopFunction() {
   
   function myGreeting7Step10(){
     document.querySelector("#next-to-step11").style.visibility = "visible";
-    document.querySelector("#back-to-step9").style.visibility = "visible";
+    // document.querySelector("#back-to-step9").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -680,14 +686,14 @@ function myStopFunction() {
   
     document.querySelector("#gif1-step11").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting1Step11, 2500);
+    myTimeout = setTimeout(myGreeting1Step11, 3500);
   }
   
   // TIME FUNCTIONS OF STEP 11
   
   function myGreeting1Step11(){
     document.querySelector("#next-to-step12").style.visibility = "visible";
-    document.querySelector("#back-to-step10").style.visibility = "visible";
+    // document.querySelector("#back-to-step10").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -725,7 +731,7 @@ function myStopFunction() {
   
   function myGreeting1Step12(){
     document.querySelector("#next-to-postTest").style.visibility = "visible";
-    document.querySelector("#back-to-step11").style.visibility = "visible";
+    // document.querySelector("#back-to-step11").style.visibility = "visible";
   
     myStopFunction();
   }
