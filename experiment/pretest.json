@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What is the angularity number of aggregates used in road construction?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "a) 0-5",
+        "b": "b) 0-11",
+        "c": "c) 1-10",
+        "d": "d) 1-5"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,14 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b) 0-11",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. The more the angularity number, the more workable will be the concrete mix?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "a) True",
+        "b": "b) False"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +30,58 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b) False",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Angularity refers to the absence of _______in an aggregate.",
+      "answers": {
+        "a": "a) Voids",
+        "b": "b) Irregularity",
+        "c": "c) Flakiness",
+        "d": "d) Roundness"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d) Roundness",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4) Which of the following is a type of angular aggregate?",
+      "answers": {
+        "a": "a) Talus",
+        "b": "b) Cuboid rock",
+        "c": "c) Pit sand",
+        "d": "d) Seashore sand"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a) Talus",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Which of the following aggregate has least percentage of voids?",
+      "answers": {
+        "a": "a) Flaky aggregate",
+        "b": "b) Angular aggregate",
+        "c": "c) Rounded aggregate",
+        "d": "d) Irregular aggregate"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c) Rounded aggregate",
       "difficulty": "beginner"
     }
   ]
