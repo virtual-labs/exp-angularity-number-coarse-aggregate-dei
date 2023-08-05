@@ -9,26 +9,14 @@
         "c": "c) 1-10",
         "d": "d) 1-5"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "b) 0-11",
-      "difficulty": "beginner"
+      "difficulty": "advance"
     },
     {
       "question": "2. The more the angularity number, the more workable will be the concrete mix?",
       "answers": {
         "a": "a) True",
         "b": "b) False"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
       },
       "correctAnswer": "b) False",
       "difficulty": "beginner"
@@ -41,14 +29,8 @@
         "c": "c) Flakiness",
         "d": "d) Roundness"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "d) Roundness",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     },
     {
       "question": "4) Which of the following is a type of angular aggregate?",
@@ -58,14 +40,8 @@
         "c": "c) Pit sand",
         "d": "d) Seashore sand"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "a) Talus",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     },
     {
       "question": "5. Which of the following aggregate has least percentage of voids?",
@@ -74,12 +50,6 @@
         "b": "b) Angular aggregate",
         "c": "c) Rounded aggregate",
         "d": "d) Irregular aggregate"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
       },
       "correctAnswer": "c) Rounded aggregate",
       "difficulty": "beginner"
