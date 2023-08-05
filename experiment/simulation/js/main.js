@@ -326,7 +326,7 @@ function myStopFunction() {
   
     document.querySelector("#gif1-step7").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting1Step7, 12000);
+    myTimeout = setTimeout(myGreeting1Step7, 11500);
   }
   
   // TIME DELAY FUNCTIONS OF STEP 7
@@ -372,7 +372,7 @@ function myStopFunction() {
   
     document.querySelector("#gif1-step8").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting1Step8, 8000);
+    myTimeout = setTimeout(myGreeting1Step8, 7000);
   }
   
   // TIME DELAY FUNCTIONS OF STEP 8
@@ -710,7 +710,10 @@ function myStopFunction() {
   
     document.querySelector("#step12").style.visibility = "visible";
     document.querySelector("#png1-step12").style.visibility = "visible";
-    document.querySelector("#reading-fill-1-step12").style.visibility = "visible";
+    
+    setTimeout(() => {
+      document.querySelector("#reading-fill-1-step12").style.visibility = "visible";
+    }, 1000)
   }
   
   function changeResult1Step12(){
@@ -718,8 +721,10 @@ function myStopFunction() {
     document.querySelector("#reading-fill-1-step12").style.visibility = "hidden";
   
     document.querySelector("#png2-step12").style.visibility = "visible";
-    document.querySelector("#reading-fill-2-step12").style.visibility = "visible";
-  
+    
+    setTimeout(() => {
+      document.querySelector("#reading-fill-2-step12").style.visibility = "visible";
+    }, 1000)
   }
   
   function changeResult2Step12(){
@@ -728,18 +733,13 @@ function myStopFunction() {
     
     document.querySelector("#png3-step12").style.visibility = "visible";
     
-    myTimeout = setTimeout(myGreeting1Step12, 500);
-  }
-  
-  function myGreeting1Step12(){
-    document.querySelector("#next-to-postTest").style.visibility = "visible";
-    // document.querySelector("#back-to-step11").style.visibility = "visible";
-  
-    myStopFunction();
+    setTimeout(() => {
+      document.querySelector("#next-to-postTest").style.visibility = "visible";
+    }, 1000);
   }
   
   // POST TEST
   
   function toPostTest(){
-    myTimeout = setTimeout(() => window.location.href = "https://virtual-labs.github.io/exp-angularity-number-coarse-aggregate-dei/posttest.html", 1000);
+    window.location.href = "https://virtual-labs.github.io/exp-angularity-number-coarse-aggregate-dei/posttest.html";
   }
