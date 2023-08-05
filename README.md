@@ -2,10 +2,11 @@
 
 <b>Discipline | <b> Civil Engineering.
 :--|:--|
-<b> Lab | <b> Concrete Technology.
+<b> Lab | <b> Concrete Technology Lab.
 <b> Experiment|     <b> 10.Angularity number of coarse aggregate.
 
 ### About the Experiment 
+The angularity number of an aggregate is defined as the amount by which the percentage of voids exceeds 33  after compacting the aggregate. Angularity refers to the lack of roundness of aggregate.
 
 Fill a brief description of this experiment here
 
