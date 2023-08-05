@@ -538,7 +538,7 @@ function myStopFunction() {
   
     document.querySelector("#gif1-step10").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting1Step10, 6000);
+    myTimeout = setTimeout(myGreeting1Step10, 5500);
   }
   
   function moveplate2Step10(){
@@ -599,7 +599,7 @@ function myStopFunction() {
   
   function myGreeting1Step10(){
     document.querySelector("#gif1-step10").style.visibility = "hidden";
-    // document.querySelector("#png2-step10").style.visibility = "visible";
+    document.querySelector("#png2-step10").style.visibility = "visible";
     document.querySelector("#arr2-step10").style.visibility = "visible";
     document.querySelector("#trans2-step10").style.visibility = "visible";
   
@@ -608,7 +608,7 @@ function myStopFunction() {
   
   function myGreeting2Step10(){
     document.querySelector("#gif2-step10").style.visibility = "hidden";
-    // document.querySelector("#png3-step10").style.visibility = "visible";
+    document.querySelector("#png3-step10").style.visibility = "visible";
     document.querySelector("#arr3-step10").style.visibility = "visible";
     document.querySelector("#trans3-step10").style.visibility = "visible";
   
@@ -616,6 +616,8 @@ function myStopFunction() {
   }
   
   function myGreeting3Step10(){
+    document.querySelector("#gif3-step10").style.visibility = "hidden";
+    document.querySelector("#png4-step10").style.visibility = "visible";
     document.querySelector("#arr4-step10").style.visibility = "visible";
     document.querySelector("#trans4-step10").style.visibility = "visible";
   
@@ -624,7 +626,7 @@ function myStopFunction() {
   
   function myGreeting4Step10(){
     document.querySelector("#gif4-step10").style.visibility = "hidden";
-    // document.querySelector("#png4-step10").style.visibility = "visible";
+    document.querySelector("#png5-step10").style.visibility = "visible";
     document.querySelector("#arr5-step10").style.visibility = "visible";
     document.querySelector("#trans5-step10").style.visibility = "visible";
   
