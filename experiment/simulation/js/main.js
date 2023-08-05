@@ -86,7 +86,7 @@ function myStopFunction() {
   }
   
   function myGreeting3Step2() {
-    document.querySelector("#back-to-step1").style.visibility = "visible";
+    // document.querySelector("#back-to-step1").style.visibility = "visible";
     document.querySelector("#next-to-step3").style.visibility = "visible";
   
     myStopFunction();
@@ -135,7 +135,7 @@ function myStopFunction() {
     document.querySelector("#gif1-step3").style.visibility = "hidden";
     document.querySelector("#png2-step3").style.visibility = "visible";
     document.querySelector("#next-to-step4").style.visibility = "visible";
-    document.querySelector("#back-to-step2").style.visibility = "visible";
+    // document.querySelector("#back-to-step2").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -182,7 +182,7 @@ function myStopFunction() {
   
   function myGreeting1Step4() {
     document.querySelector("#next-to-step5").style.visibility = "visible";
-    document.querySelector("#back-to-step3").style.visibility = "visible";
+    // document.querySelector("#back-to-step3").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -245,7 +245,7 @@ function myStopFunction() {
   
   function myGreeting2Step5(){
     document.querySelector("#next-to-step6").style.visibility = "visible";
-    document.querySelector("#back-to-step4").style.visibility = "visible";
+    // document.querySelector("#back-to-step4").style.visibility = "visible";
   }
   
   // STEP 6
@@ -290,7 +290,7 @@ function myStopFunction() {
   
   function myGreeting1Step6(){
     document.querySelector("#next-to-step7").style.visibility = "visible";
-    document.querySelector("#back-to-step5").style.visibility = "visible";
+    // document.querySelector("#back-to-step5").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -326,14 +326,14 @@ function myStopFunction() {
   
     document.querySelector("#gif1-step7").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting1Step7, 12000);
+    myTimeout = setTimeout(myGreeting1Step7, 11500);
   }
   
   // TIME DELAY FUNCTIONS OF STEP 7
   
   function myGreeting1Step7(){
     document.querySelector("#next-to-step8").style.visibility = "visible";
-    document.querySelector("#back-to-step6").style.visibility = "visible";
+    // document.querySelector("#back-to-step6").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -372,14 +372,14 @@ function myStopFunction() {
   
     document.querySelector("#gif1-step8").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting1Step8, 8000);
+    myTimeout = setTimeout(myGreeting1Step8, 7000);
   }
   
   // TIME DELAY FUNCTIONS OF STEP 8
   
   function myGreeting1Step8(){
     document.querySelector("#next-to-step9").style.visibility = "visible";
-    document.querySelector("#back-to-step7").style.visibility = "visible";
+    // document.querySelector("#back-to-step7").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -498,7 +498,7 @@ function myStopFunction() {
   
   function myGreeting5Step9(){
     document.querySelector("#next-to-step10").style.visibility = "visible";
-    document.querySelector("#back-to-step8").style.visibility = "visible";
+    // document.querySelector("#back-to-step8").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -598,6 +598,8 @@ function myStopFunction() {
   // Time Functions of STEP 10
   
   function myGreeting1Step10(){
+    document.querySelector("#gif1-step10").style.visibility = "hidden";
+    document.querySelector("#png2-step10").style.visibility = "visible";
     document.querySelector("#arr2-step10").style.visibility = "visible";
     document.querySelector("#trans2-step10").style.visibility = "visible";
   
@@ -605,6 +607,8 @@ function myStopFunction() {
   }
   
   function myGreeting2Step10(){
+    document.querySelector("#gif2-step10").style.visibility = "hidden";
+    document.querySelector("#png3-step10").style.visibility = "visible";
     document.querySelector("#arr3-step10").style.visibility = "visible";
     document.querySelector("#trans3-step10").style.visibility = "visible";
   
@@ -612,6 +616,8 @@ function myStopFunction() {
   }
   
   function myGreeting3Step10(){
+    document.querySelector("#gif3-step10").style.visibility = "hidden";
+    document.querySelector("#png4-step10").style.visibility = "visible";
     document.querySelector("#arr4-step10").style.visibility = "visible";
     document.querySelector("#trans4-step10").style.visibility = "visible";
   
@@ -619,6 +625,8 @@ function myStopFunction() {
   }
   
   function myGreeting4Step10(){
+    document.querySelector("#gif4-step10").style.visibility = "hidden";
+    document.querySelector("#png5-step10").style.visibility = "visible";
     document.querySelector("#arr5-step10").style.visibility = "visible";
     document.querySelector("#trans5-step10").style.visibility = "visible";
   
@@ -641,7 +649,7 @@ function myStopFunction() {
   
   function myGreeting7Step10(){
     document.querySelector("#next-to-step11").style.visibility = "visible";
-    document.querySelector("#back-to-step9").style.visibility = "visible";
+    // document.querySelector("#back-to-step9").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -680,14 +688,14 @@ function myStopFunction() {
   
     document.querySelector("#gif1-step11").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting1Step11, 2500);
+    myTimeout = setTimeout(myGreeting1Step11, 3500);
   }
   
   // TIME FUNCTIONS OF STEP 11
   
   function myGreeting1Step11(){
     document.querySelector("#next-to-step12").style.visibility = "visible";
-    document.querySelector("#back-to-step10").style.visibility = "visible";
+    // document.querySelector("#back-to-step10").style.visibility = "visible";
   
     myStopFunction();
   }
@@ -702,7 +710,10 @@ function myStopFunction() {
   
     document.querySelector("#step12").style.visibility = "visible";
     document.querySelector("#png1-step12").style.visibility = "visible";
-    document.querySelector("#reading-fill-1-step12").style.visibility = "visible";
+    
+    setTimeout(() => {
+      document.querySelector("#reading-fill-1-step12").style.visibility = "visible";
+    }, 1000)
   }
   
   function changeResult1Step12(){
@@ -710,8 +721,10 @@ function myStopFunction() {
     document.querySelector("#reading-fill-1-step12").style.visibility = "hidden";
   
     document.querySelector("#png2-step12").style.visibility = "visible";
-    document.querySelector("#reading-fill-2-step12").style.visibility = "visible";
-  
+    
+    setTimeout(() => {
+      document.querySelector("#reading-fill-2-step12").style.visibility = "visible";
+    }, 1000)
   }
   
   function changeResult2Step12(){
@@ -720,18 +733,13 @@ function myStopFunction() {
     
     document.querySelector("#png3-step12").style.visibility = "visible";
     
-    myTimeout = setTimeout(myGreeting1Step12, 500);
-  }
-  
-  function myGreeting1Step12(){
-    document.querySelector("#next-to-postTest").style.visibility = "visible";
-    document.querySelector("#back-to-step11").style.visibility = "visible";
-  
-    myStopFunction();
+    setTimeout(() => {
+      document.querySelector("#next-to-postTest").style.visibility = "visible";
+    }, 1000);
   }
   
   // POST TEST
   
   function toPostTest(){
-    myTimeout = setTimeout(() => window.location.href = "https://virtual-labs.github.io/exp-angularity-number-coarse-aggregate-dei/posttest.html", 1000);
+    window.location.href = "https://virtual-labs.github.io/exp-angularity-number-coarse-aggregate-dei/posttest.html";
   }
