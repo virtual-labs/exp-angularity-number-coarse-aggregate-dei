@@ -1,8 +1,8 @@
-### Procedure
+## Procedure
 
 Calibration of the metal cylinder- Calibration of the cylinder to the nearest gram of the weight of water at 27°C that is required to fill it, shall be done, to avoid the presence of a meniscus above the rim of  water.  
 
-Preparation of the test sample-   
+### Preparation of the test sample-   
 
 Take a sufficient quantity of aggregate, at least 10 kg, to be retained between pairs of IS Sieves from the following sets: 20 mm & 16 mm, 16 mm & 12.5 mm, 12.5 mm & 10 mm, 10 mm & 6.3 mm, 6.3 mm & 4.75 mm.  
 
@@ -21,5 +21,3 @@ Add individual pieces of aggregate which shall be rolled into the surface by rol
 Weigh the aggregate in the cylinder to the nearest 5 grams.  
 
 Make three separate determinations and calculate the mean weight of the aggregate. In case the result of anyone determination differs by more than 25 grams from the mean, three more deductions shall be made on the same sample and then the mean of all six deductions shall be estimated.  
-
- 

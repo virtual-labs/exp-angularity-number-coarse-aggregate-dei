@@ -1,4 +1,4 @@
-### 
+## Theory
 
 1. The angularity number of an aggregate is defined as the amount by which the percentage of voids exceeds 33  after compacting the aggregate. Angularity refers to the lack of roundness of aggregate.
 
@@ -8,31 +8,18 @@
 
 Calculation- The angularity number shall be calculated by using the formula 
 From the solids: 
-
+```
                Angularity number=  67- {(100 ×W)/(C× Ga)} 
-
     Where, 
-
-         W is the mean weight of aggregate in the cylinder in grams  
-
-         C is the weight of water required to fill the cylinder in grams  
-
-         Ga is the specific gravity of aggregate.  
-
- 
-
+               W is the mean weight of aggregate in the cylinder in grams,  
+               C is the weight of water required to fill the cylinder in grams,  
+               Ga is the specific gravity of aggregate.  
+```          
 From the voids: 
-
- 
-
-Angularity number = ((Volume of water added/ Total volume of cylinder) ×100) -33 
-
- 
-
- 
-
- 
-
+```
+              Angularity number = ((Volume of water added/ Total volume of cylinder) ×100) -33
+```
+              
 Apparatus- 
 
 Metal cylinder- Metal cylinder with one end closed, having a capacity of 3 litres. The diameter and height of the cylinder should be approximately equal.  
@@ -41,4 +28,4 @@ Tamping rod – The rod should be rounded at one end and have a circular cross-s
 
 Balance 
 
-Metal Scoop, of approximately 20×12×5 cm. 
+Metal Scoop, of approximately 20×12×5 cm.
