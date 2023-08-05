@@ -2,38 +2,48 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": ") What is the capacity of the metal cylinder used while conducting the angularity number test?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "a) 5 litres",
+        "b": "b) 3 litres",
+        "c": "c) 3.5 litres",
+        "d": "d) 4.5 litres"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      "correctAnswer": "b) 3 litres",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the angularity number if the percentage of voids in the aggregate sample is 33?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "a) 0",
+        "b": "b) 11",
+        "c": "c) 7",
+        "d": "d) 5"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      "correctAnswer": "a) 0",
       "difficulty": "beginner"
+    },
+    {
+      "question": "What is the angularity number for the following sample whose relative density is 2.85, mass of cylinder is 1200 g, mass of cylinder filled with compacted aggregate is 5500 g and the mass of water required to fill the cylinder is 2600 g?",
+      "answers": {
+        "a": "a) 8",
+        "b": "b) 10",
+        "c": "c) 5.5",
+        "d": "d) 7.14"
+      },
+      "correctAnswer": "a) 8",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The following data is observed after performing the angularity test of aggregate : The volume of the cylinder is 3.5kg, the Specific gravity is 2.68, the weight of aggregate for sample 1 is 5.5 kg, for sample 2 is 5.4 kg and for sample 3 is 5.25 kg. What is the angularity number for the above-mentioned sample?",
+      "answers": {
+        "a": "a) 0",
+        "b": "b) 7",
+        "c": "c) 5",
+        "d": "d) 10"
+      },
+      "correctAnswer": "d) 10",
+      "difficulty": "advance"
     }
   ]
 }
