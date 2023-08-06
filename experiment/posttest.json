@@ -4,10 +4,13 @@
     {
       "question": "1. What is the capacity of the metal cylinder used while conducting the angularity number test?",
       "answers": {
-        "a": "a) 5 litres",
-        "b": "b) 3 litres",
-        "c": "c) 3.5 litres",
-        "d": "d) 4.5 litres"
+        "a": "5 litres",
+        "b": "3 litres",
+        "c": "3.5 litres",
+        "d": "4.5 litres"
+      },
+      "explanations": {
+        "b": "3 litres"
       },
       "correctAnswer": "b) 3 litres",
       "difficulty": "beginner"
@@ -15,10 +18,13 @@
     {
       "question": "2. What is the capacity of the metal scoop used in the experiment?",
       "answers": {
-        "a": "a) 2 litres",
-        "b": "b) 1 litre",
-        "c": "c) 1.5 litres",
-        "d": "d) 0.5 litre"
+        "a": "2 litres",
+        "b": "1 litre",
+        "c": "1.5 litres",
+        "d": "0.5 litre"
+      },
+      "explanations": {
+        "c": "1 litre"
       },
       "correctAnswer": "c) 1 litre",
       "difficulty": "beginner"
@@ -26,10 +32,13 @@
     {
       "question": "3. Which of the following shape of aggregates result in higher angularity number?",
       "answers": {
-        "a": "a) Elongated",
-        "b": "b) Cubical",
-        "c": "c) Flat",
-        "d": "d) Spherical"
+        "a": "Elongated",
+        "b": "Cubical",
+        "c": "Flat",
+        "d": "Spherical"
+      },
+      "explanations": {
+        "a": "Elongated"
       },
       "correctAnswer": "a) Elongated",
       "difficulty": "beginner"
@@ -37,10 +46,13 @@
     {
       "question": "4. What is the angularity number if the percentage of voids in the aggregate sample is 33?",
       "answers": {
-        "a": "a) 0",
-        "b": "b) 11",
-        "c": "c) 7",
-        "d": "d) 5"
+        "a": "0",
+        "b": "11",
+        "c": "7",
+        "d": "5"
+      },
+      "explanations": {
+        "a": "0"
       },
       "correctAnswer": "a) 0",
       "difficulty": "intermediate"
@@ -48,10 +60,13 @@
     {
       "question": "5. Angularity number is computed based on the percentage of aggregates retained on _____ sieve.",
       "answers": {
-        "a": "a)  150 micron",
-        "b": "b) 300 micron",
-        "c": "c) 4.75 mm",
-        "d": "d) 10 mm"
+        "a": "150 micron",
+        "b": "300 micron",
+        "c": "4.75 mm",
+        "d": "10 mm"
+      },
+      "explanations": {
+        "c": "4.75 mm"
       },
       "correctAnswer": "c) 4.75 mm",
       "difficulty": "intermediate"
@@ -59,35 +74,44 @@
     {
       "question": "6. What is the angularity number for the following sample whose relative density is 2.85, mass of cylinder is 1200 g, mass of cylinder filled with compacted aggregate is 5500 g and the mass of water required to fill the cylinder is 2600 g?",
       "answers": {
-        "a": "a) 8",
-        "b": "b) 10",
-        "c": "c) 5.5",
-        "d": "d) 7.14"
+        "a": "8",
+        "b": "10",
+        "c": "5.5",
+        "d": "7.14"
+      },
+      "explanations": {
+        "a": "8"
       },
       "correctAnswer": "a) 8",
-      "difficulty": "advance"
+      "difficulty": "advanced"
     },
     {
       "question": "7. The following data is observed after performing the angularity test of aggregate : The volume of the cylinder is 3.5kg, the Specific gravity is 2.68, the weight of aggregate for sample 1 is 5.5 kg, for sample 2 is 5.4 kg and for sample 3 is 5.25 kg. What is the angularity number for the above-mentioned sample?",
       "answers": {
-        "a": "a) 0",
-        "b": "b) 7",
-        "c": "c) 5",
-        "d": "d) 10"
+        "a": "0",
+        "b": "7",
+        "c": "5",
+        "d": "10"
+      },
+      "explanations": {
+        "d": "10"
       },
       "correctAnswer": "d) 10",
-      "difficulty": "advance"
+      "difficulty": "advanced"
     },
     {
       "question": "8. Aggregates having high angularity number provide good interlocking properties thus contributing improved _____. ",
       "answers": {
-        "a": "a) Compressive strength",
-        "b": "b) Tensile strength",
-        "c": "c) Ductility",
-        "d": "d) Elastic modulus"
+        "a": "Compressive strength",
+        "b": "Tensile strength",
+        "c": "Ductility",
+        "d": "Elastic modulus"
+      },
+      "explanations": {
+        "b": "Tensile strength"
       },
       "correctAnswer": "b) Tensile strength",
-      "difficulty": "advance"
+      "difficulty": "advanced"
     }
   ]
 }
