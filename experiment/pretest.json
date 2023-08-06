@@ -12,7 +12,7 @@
       "explanations": {
         "d": "Roundness"
       },
-      "correctAnswer": "d) Roundness",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
@@ -26,21 +26,21 @@
       "explanations": {
         "b": "Shape and texture"
       },
-      "correctAnswer": "b) Shape and texture",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
       "question": "3. What is the angularity number of aggregates used in road construction?",
       "answers": {
         "a": "0-5",
-        "b": "0-11",
-        "c": "1-10",
+        "b": "1-10",
+        "c": "0-11",
         "d": "1-5"
       },
       "explanations": {
-        "b": "0-11"
+        "c": "0-11"
       },
-      "correctAnswer": "b) 0-11",
+      "correctAnswer": "c",
       "difficulty": "intermediate"
     },
     {
@@ -52,7 +52,7 @@
       "explanations": {
         "b": "False"
       },
-      "correctAnswer": "b) False",
+      "correctAnswer": "b",
       "difficulty": "intermediate"
     },
     {
@@ -64,7 +64,7 @@
       "explanations": {
         "b": "False"
       },
-      "correctAnswer": "b) False",
+      "correctAnswer": "b",
       "difficulty": "intermediate"
     },
     {
@@ -78,7 +78,7 @@
       "explanations": {
         "a": "Talus"
       },
-      "correctAnswer": "a) Talus",
+      "correctAnswer": "a",
       "difficulty": "advanced"
     },
     {
@@ -92,7 +92,7 @@
       "explanations": {
         "c": "Rounded aggregate"
       },
-      "correctAnswer": "c) Rounded aggregate",
+      "correctAnswer": "c",
       "difficulty": "advanced"
     }
   ]
