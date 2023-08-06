@@ -12,7 +12,7 @@
       "explanations": {
         "b": "3 litres"
       },
-      "correctAnswer": "b) 3 litres",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -26,7 +26,7 @@
       "explanations": {
         "c": "1 litre"
       },
-      "correctAnswer": "c) 1 litre",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
@@ -40,7 +40,7 @@
       "explanations": {
         "a": "Elongated"
       },
-      "correctAnswer": "a) Elongated",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
@@ -54,7 +54,7 @@
       "explanations": {
         "a": "0"
       },
-      "correctAnswer": "a) 0",
+      "correctAnswer": "a",
       "difficulty": "intermediate"
     },
     {
@@ -68,7 +68,7 @@
       "explanations": {
         "c": "4.75 mm"
       },
-      "correctAnswer": "c) 4.75 mm",
+      "correctAnswer": "c",
       "difficulty": "intermediate"
     },
     {
@@ -82,7 +82,7 @@
       "explanations": {
         "a": "8"
       },
-      "correctAnswer": "a) 8",
+      "correctAnswer": "a",
       "difficulty": "advanced"
     },
     {
@@ -96,7 +96,7 @@
       "explanations": {
         "d": "10"
       },
-      "correctAnswer": "d) 10",
+      "correctAnswer": "d",
       "difficulty": "advanced"
     },
     {
@@ -110,7 +110,7 @@
       "explanations": {
         "b": "Tensile strength"
       },
-      "correctAnswer": "b) Tensile strength",
+      "correctAnswer": "b",
       "difficulty": "advanced"
     }
   ]
