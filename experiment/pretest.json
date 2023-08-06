@@ -4,10 +4,13 @@
     {
       "question": "1. Angularity refers to the absence of _______in an aggregate.",
       "answers": {
-        "a": "a) Voids",
-        "b": "b) Irregularity",
-        "c": "c) Flakiness",
-        "d": "d) Roundness"
+        "a": "Voids",
+        "b": "Irregularity",
+        "c": "Flakiness",
+        "d": "Roundness"
+      },
+      "explanations": {
+        "d": "Roundness"
       },
       "correctAnswer": "d) Roundness",
       "difficulty": "beginner"
@@ -15,10 +18,13 @@
     {
     "question": "2. The angularity test of aggregates is conducted to evaluate its ______",
       "answers": {
-        "a": "a) Moisture content",
-        "b": "b) Shape and texture",
-        "c": "c) Particle size distribution",
-        "d": "d) Resistance to crushing"
+        "a": "Moisture content",
+        "b": "Shape and texture",
+        "c": "Particle size distribution",
+        "d": "Resistance to crushing"
+      },
+      "explanations": {
+        "b": "Shape and texture"
       },
       "correctAnswer": "b) Shape and texture",
       "difficulty": "beginner"
@@ -26,10 +32,13 @@
     {
       "question": "3. What is the angularity number of aggregates used in road construction?",
       "answers": {
-        "a": "a) 0-5",
-        "b": "b) 0-11",
-        "c": "c) 1-10",
-        "d": "d) 1-5"
+        "a": "0-5",
+        "b": "0-11",
+        "c": "1-10",
+        "d": "1-5"
+      },
+      "explanations": {
+        "b": "0-11"
       },
       "correctAnswer": "b) 0-11",
       "difficulty": "intermediate"
@@ -37,8 +46,11 @@
     {
       "question": "4. The more the angularity number, the more workable will be the concrete mix?",
       "answers": {
-        "a": "a) True",
-        "b": "b) False"
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "b": "False"
       },
       "correctAnswer": "b) False",
       "difficulty": "intermediate"
@@ -49,30 +61,39 @@
         "a": "a) True",
         "b": "b) False"
       },
+      "explanations": {
+        "b": "False"
+      },
       "correctAnswer": "b) False",
       "difficulty": "intermediate"
     },
     {
       "question": "6. Which of the following is a type of angular aggregate?",
       "answers": {
-        "a": "a) Talus",
-        "b": "b) Cuboid rock",
-        "c": "c) Pit sand",
-        "d": "d) Seashore sand"
+        "a": "Talus",
+        "b": "Cuboid rock",
+        "c": "Pit sand",
+        "d": "Seashore sand"
+      },
+      "explanations": {
+        "a": "Talus"
       },
       "correctAnswer": "a) Talus",
-      "difficulty": "advance"
+      "difficulty": "advanced"
     },
     {
       "question": "7. Which of the following aggregate has least percentage of voids?",
       "answers": {
-        "a": "a) Flaky aggregate",
-        "b": "b) Angular aggregate",
-        "c": "c) Rounded aggregate",
-        "d": "d) Irregular aggregate"
+        "a": "Flaky aggregate",
+        "b": "Angular aggregate",
+        "c": "Rounded aggregate",
+        "d": "Irregular aggregate"
+      },
+      "explanations": {
+        "c": "Rounded aggregate"
       },
       "correctAnswer": "c) Rounded aggregate",
-      "difficulty": "advance"
+      "difficulty": "advanced"
     }
   ]
 }
