@@ -175,7 +175,7 @@ function myStopFunction() {
   
     document.querySelector("#gif1-step4").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting1Step4, 3000);
+    myTimeout = setTimeout(myGreeting1Step4, 3500);
   }
   
   // TIME DELAY FUNCTIONS OF STEP 4
@@ -688,7 +688,7 @@ function myStopFunction() {
   
     document.querySelector("#gif1-step11").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting1Step11, 3500);
+    myTimeout = setTimeout(myGreeting1Step11, 4500);
   }
   
   // TIME FUNCTIONS OF STEP 11
