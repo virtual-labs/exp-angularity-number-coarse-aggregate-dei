@@ -88,7 +88,8 @@ function myStopFunction() {
   function myGreeting3Step2() {
     // document.querySelector("#back-to-step1").style.visibility = "visible";
     document.querySelector("#next-to-step3").style.visibility = "visible";
-  
+    document.querySelector("#arr-next").style.visibility = "visible";
+    
     myStopFunction();
   }
   
@@ -112,6 +113,8 @@ function myStopFunction() {
     document.querySelector("#gif2").style.visibility = "hidden";
     document.querySelector("#back-to-step1").style.visibility = "hidden";
     document.querySelector("#next-to-step3").style.visibility = "hidden";
+    document.querySelector("#arr-next").style.visibility = "hidden";
+
   
     document.querySelector("#step3").style.visibility = "visible";
     document.querySelector("#png1-step3").style.visibility = "visible";
@@ -135,6 +138,8 @@ function myStopFunction() {
     document.querySelector("#gif1-step3").style.visibility = "hidden";
     document.querySelector("#png2-step3").style.visibility = "visible";
     document.querySelector("#next-to-step4").style.visibility = "visible";
+    document.querySelector("#arr-next").style.visibility = "visible";
+
     // document.querySelector("#back-to-step2").style.visibility = "visible";
   
     myStopFunction();
@@ -161,6 +166,7 @@ function myStopFunction() {
     document.querySelector("#png2-step3").style.visibility = "hidden";
     document.querySelector("#next-to-step4").style.visibility = "hidden";
     document.querySelector("#back-to-step2").style.visibility = "hidden";
+    document.querySelector("#arr-next").style.visibility = "hidden";
   
     document.querySelector("#step4").style.visibility = "visible";
     document.querySelector("#png1-step4").style.visibility = "visible";
@@ -182,6 +188,7 @@ function myStopFunction() {
   
   function myGreeting1Step4() {
     document.querySelector("#next-to-step5").style.visibility = "visible";
+    document.querySelector("#arr-next").style.visibility = "visible";
     // document.querySelector("#back-to-step3").style.visibility = "visible";
   
     myStopFunction();
@@ -207,6 +214,8 @@ function myStopFunction() {
     document.querySelector("#gif1-step4").style.visibility = "hidden";
     document.querySelector("#next-to-step5").style.visibility = "hidden";
     document.querySelector("#back-to-step3").style.visibility = "hidden";
+    document.querySelector("#arr-next").style.visibility = "hidden";
+
   
     document.querySelector("#step5").style.visibility = "visible";
     document.querySelector("#png1-step5").style.visibility = "visible";
@@ -245,6 +254,7 @@ function myStopFunction() {
   
   function myGreeting2Step5(){
     document.querySelector("#next-to-step6").style.visibility = "visible";
+    document.querySelector("#arr-next").style.visibility = "visible";
     // document.querySelector("#back-to-step4").style.visibility = "visible";
   }
   
@@ -268,6 +278,7 @@ function myStopFunction() {
     document.querySelector("#gif2-step5").style.visibility = "hidden";
     document.querySelector("#next-to-step6").style.visibility = "hidden";
     document.querySelector("#back-to-step4").style.visibility = "hidden";
+    document.querySelector("#arr-next").style.visibility = "hidden";
   
   
     document.querySelector("#step6").style.visibility = "visible";
@@ -290,6 +301,7 @@ function myStopFunction() {
   
   function myGreeting1Step6(){
     document.querySelector("#next-to-step7").style.visibility = "visible";
+    document.querySelector("#arr-next").style.visibility = "visible";
     // document.querySelector("#back-to-step5").style.visibility = "visible";
   
     myStopFunction();
@@ -313,6 +325,7 @@ function myStopFunction() {
     document.querySelector("#step6").style.visibility = "hidden";
     document.querySelector("#gif1-step6").style.visibility = "hidden";
     document.querySelector("#next-to-step7").style.visibility = "hidden";
+    document.querySelector("#arr-next").style.visibility = "hidden";
     document.querySelector("#back-to-step5").style.visibility = "hidden";
   
     document.querySelector("#step7").style.visibility = "visible";
@@ -333,6 +346,7 @@ function myStopFunction() {
   
   function myGreeting1Step7(){
     document.querySelector("#next-to-step8").style.visibility = "visible";
+    document.querySelector("#arr-next").style.visibility = "visible";
     // document.querySelector("#back-to-step6").style.visibility = "visible";
   
     myStopFunction();
@@ -358,6 +372,7 @@ function myStopFunction() {
     document.querySelector("#gif1-step7").style.visibility = "hidden";
     document.querySelector("#next-to-step8").style.visibility = "hidden";
     document.querySelector("#back-to-step6").style.visibility = "hidden";
+    document.querySelector("#arr-next").style.visibility = "hidden";
   
     document.querySelector("#step8").style.visibility = "visible";
     document.querySelector("#png1-step8").style.visibility = "visible";
@@ -379,6 +394,7 @@ function myStopFunction() {
   
   function myGreeting1Step8(){
     document.querySelector("#next-to-step9").style.visibility = "visible";
+    document.querySelector("#arr-next").style.visibility = "visible";
     // document.querySelector("#back-to-step7").style.visibility = "visible";
   
     myStopFunction();
@@ -404,6 +420,7 @@ function myStopFunction() {
     document.querySelector("#gif1-step8").style.visibility = "hidden";
     document.querySelector("#next-to-step9").style.visibility = "hidden";
     document.querySelector("#back-to-step7").style.visibility = "hidden";
+    document.querySelector("#arr-next").style.visibility = "hidden";
   
     document.querySelector("#step9").style.visibility = "visible";
     document.querySelector("#png1-step9").style.visibility = "visible";
@@ -498,6 +515,7 @@ function myStopFunction() {
   
   function myGreeting5Step9(){
     document.querySelector("#next-to-step10").style.visibility = "visible";
+    document.querySelector("#arr-next").style.visibility = "visible";
     // document.querySelector("#back-to-step8").style.visibility = "visible";
   
     myStopFunction();
@@ -523,6 +541,7 @@ function myStopFunction() {
     document.querySelector("#png2-step9").style.visibility = "hidden";
     document.querySelector("#next-to-step10").style.visibility = "hidden";
     document.querySelector("#back-to-step8").style.visibility = "hidden";
+    document.querySelector("#arr-next").style.visibility = "hidden";
     // document.querySelector("#content2-step9").style.visibility = "hidden";
   
     document.querySelector("#step10").style.visibility = "visible";
@@ -649,6 +668,7 @@ function myStopFunction() {
   
   function myGreeting7Step10(){
     document.querySelector("#next-to-step11").style.visibility = "visible";
+    document.querySelector("#arr-next").style.visibility = "visible";
     // document.querySelector("#back-to-step9").style.visibility = "visible";
   
     myStopFunction();
@@ -674,6 +694,7 @@ function myStopFunction() {
     document.querySelector("#gif6-step10").style.visibility = "hidden";
     document.querySelector("#next-to-step11").style.visibility = "hidden";
     document.querySelector("#back-to-step9").style.visibility = "hidden";
+    document.querySelector("#arr-next").style.visibility = "hidden";
   
     document.querySelector("#step11").style.visibility = "visible";
     document.querySelector("#png1-step11").style.visibility = "visible";
@@ -695,6 +716,7 @@ function myStopFunction() {
   
   function myGreeting1Step11(){
     document.querySelector("#next-to-step12").style.visibility = "visible";
+    document.querySelector("#arr-next").style.visibility = "visible";
     // document.querySelector("#back-to-step10").style.visibility = "visible";
   
     myStopFunction();
@@ -712,6 +734,7 @@ function myStopFunction() {
     document.querySelector("#png1-step12").style.visibility = "visible";
     
     setTimeout(() => {
+      document.querySelector("#arr-next").style.visibility = "visible";
       document.querySelector("#reading-fill-1-step12").style.visibility = "visible";
     }, 1000)
   }
@@ -723,6 +746,7 @@ function myStopFunction() {
     document.querySelector("#png2-step12").style.visibility = "visible";
     
     setTimeout(() => {
+      document.querySelector("#arr-next").style.visibility = "visible";
       document.querySelector("#reading-fill-2-step12").style.visibility = "visible";
     }, 1000)
   }
