@@ -732,6 +732,7 @@ function myStopFunction() {
     document.querySelector("#reading-fill-2-step12").style.visibility = "hidden";
     
     document.querySelector("#png3-step12").style.visibility = "visible";
+    document.querySelector("#conclusion-step12").style.visibility = "visible";
     
     setTimeout(() => {
       document.querySelector("#next-to-postTest").style.visibility = "visible";
