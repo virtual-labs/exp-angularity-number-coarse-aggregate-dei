@@ -556,7 +556,7 @@ function myStopFunction() {
   
     document.querySelector("#gif5-step10").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting5Step10, 5500);
+    myTimeout = setTimeout(myGreeting5Step10, 7000);
   }
   
   function moveRod1Step10(){
