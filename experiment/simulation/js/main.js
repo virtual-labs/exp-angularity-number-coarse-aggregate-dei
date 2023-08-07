@@ -175,7 +175,7 @@ function myStopFunction() {
   
     document.querySelector("#gif1-step4").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting1Step4, 3000);
+    myTimeout = setTimeout(myGreeting1Step4, 3500);
   }
   
   // TIME DELAY FUNCTIONS OF STEP 4
@@ -556,7 +556,7 @@ function myStopFunction() {
   
     document.querySelector("#gif5-step10").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting5Step10, 5500);
+    myTimeout = setTimeout(myGreeting5Step10, 7000);
   }
   
   function moveRod1Step10(){
@@ -688,7 +688,7 @@ function myStopFunction() {
   
     document.querySelector("#gif1-step11").style.visibility = "visible";
   
-    myTimeout = setTimeout(myGreeting1Step11, 3500);
+    myTimeout = setTimeout(myGreeting1Step11, 4500);
   }
   
   // TIME FUNCTIONS OF STEP 11
@@ -732,6 +732,7 @@ function myStopFunction() {
     document.querySelector("#reading-fill-2-step12").style.visibility = "hidden";
     
     document.querySelector("#png3-step12").style.visibility = "visible";
+    document.querySelector("#conclusion-step12").style.visibility = "visible";
     
     setTimeout(() => {
       document.querySelector("#next-to-postTest").style.visibility = "visible";

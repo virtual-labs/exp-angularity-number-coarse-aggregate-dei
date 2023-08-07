@@ -6,18 +6,20 @@
 
 3. Angular aggregate is widely used in bituminous construction and flexible pavement because it provides a strong bond and good interlocking. These aggregates require more cement paste due to the presence of large number of voids.
 
-Calculation- The angularity number shall be calculated by using the formula 
+**Calculation** - The angularity number shall be calculated by using the formula.
+
 From the solids: 
 ```
-               Angularity number=  67- {(100 ×W)/(C× Ga)} 
-    Where, 
-               W is the mean weight of aggregate in the cylinder in grams,  
-               C is the weight of water required to fill the cylinder in grams,  
-               Ga is the specific gravity of aggregate.  
-```          
+        Angularity number=  67- {(100 ×W)/(C× Ga)} 
+Where, 
+        W is the mean weight of aggregate in the cylinder in grams,  
+        C is the weight of water required to fill the cylinder in grams,  
+        Ga is the specific gravity of aggregate.  
+```  
+
 From the voids: 
 ```
-              Angularity number = ((Volume of water added/ Total volume of cylinder) ×100) -33
+        Angularity number = ((Volume of water added/ Total volume of cylinder) ×100) -33
 ```
               
 Apparatus- 
