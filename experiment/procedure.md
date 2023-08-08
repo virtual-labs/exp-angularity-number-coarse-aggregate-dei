@@ -1,6 +1,8 @@
 ## Procedure
 
-Calibration of the metal cylinder- Calibration of the cylinder to the nearest gram of the weight of water at 27°C that is required to fill it, shall be done, to avoid the presence of a meniscus above the rim of  water.  
+### Calibration of the metal cylinder- 
+
+Calibration of the cylinder to the nearest gram of the weight of water at 27°C that is required to fill it, shall be done, to avoid the presence of a meniscus above the rim of  water.  
 
 ### Preparation of the test sample-   
 
