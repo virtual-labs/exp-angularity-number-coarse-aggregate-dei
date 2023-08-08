@@ -24,10 +24,10 @@ From the voids:
               
 **Apparatus** -
 
-Metal cylinder- Metal cylinder with one end closed, having a capacity of 3 litres. The diameter and height of the cylinder should be approximately equal.  
+1. Metal cylinder- Metal cylinder with one end closed, having a capacity of 3 litres. The diameter and height of the cylinder should be approximately equal.  
 
-Tamping rod – The rod should be rounded at one end and have a circular cross-section of 16 mm diameter and a length of 60 cm. 
+2. Tamping rod – The rod should be rounded at one end and have a circular cross-section of 16 mm diameter and a length of 60 cm. 
 
-Balance 
+3. Balance 
 
-Metal Scoop, of approximately 20×12×5 cm.
+4. Metal Scoop, of approximately 20×12×5 cm.
