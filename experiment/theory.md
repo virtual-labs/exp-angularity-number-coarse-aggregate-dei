@@ -22,7 +22,7 @@ From the voids:
         Angularity number = ((Volume of water added/ Total volume of cylinder) ×100) -33
 ```
               
-Apparatus- 
+**Apparatus** -
 
 Metal cylinder- Metal cylinder with one end closed, having a capacity of 3 litres. The diameter and height of the cylinder should be approximately equal.  
 
