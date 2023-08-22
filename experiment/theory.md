@@ -9,18 +9,18 @@
 **Formulae** - The angularity number shall be calculated by using the formula.
 
 From the solids: 
-```
+
         $$ Angularity number=  67- {{100 \m W} \over {C \m Ga}} $$
 Where, 
         W is the mean weight of aggregate in the cylinder in grams,  
         C is the weight of water required to fill the cylinder in grams,  
         Ga is the specific gravity of aggregate.  
-```  
+ 
 
 From the voids: 
-```
+
         $$ Angularity number = {{Volume of water added} \over {Total volume of cylinder}} -33 $$
-```
+
               
 **Apparatus** -
 
