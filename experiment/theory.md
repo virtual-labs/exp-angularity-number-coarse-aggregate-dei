@@ -10,7 +10,8 @@
 
 From the solids: 
 
-        $$ Angularity number =  67- {{100 \m W} \over {C \m Ga}} $$
+        $ Angularity number =  67- {{100 \m W} \over {C \m Ga}} $
+
 Where, 
         W is the mean weight of aggregate in the cylinder in grams,  
         C is the weight of water required to fill the cylinder in grams,  
@@ -19,7 +20,7 @@ Where,
 
 From the voids: 
 
-        $$ Angularity number = {{Volume of water added} \over {Total volume of cylinder}} -33 $$
+        $ Angularity number = {{Volume of water added} \over {Total volume of cylinder}} -33 $
 
               
 **Apparatus** -
