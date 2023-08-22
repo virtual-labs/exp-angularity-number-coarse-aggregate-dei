@@ -6,23 +6,6 @@
 
 3. Angular aggregate is widely used in bituminous construction and flexible pavement because it provides a strong bond and good interlocking. These aggregates require more cement paste due to the presence of large number of voids.
 
-**Formulae** - The angularity number shall be calculated by using the formula.
-
-From the solids: 
-
-        $ Angularity number =  67- {{100 \m W} \over {C \m Ga}} $
-
-Where, 
-        W is the mean weight of aggregate in the cylinder in grams,  
-        C is the weight of water required to fill the cylinder in grams,  
-        Ga is the specific gravity of aggregate.  
- 
-
-From the voids: 
-
-        $ Angularity number = {{Volume of water added} \over {Total volume of cylinder}} -33 $
-
-              
 **Apparatus** -
 
 1. Metal cylinder- Metal cylinder with one end closed, having a capacity of 3 litres. The diameter and height of the cylinder should be approximately equal.  
@@ -34,3 +17,21 @@ From the voids:
 4. Metal Scoop, of approximately 20×12×5 cm.
 
 5. IS Sieves from the following sets: 20 mm & 16 mm, 16 mm & 12.5 mm, 12.5 mm & 10 mm, 10 mm & 6.3 mm, 6.3 mm & 4.75 mm. 
+
+**Formulae** - The angularity number shall be calculated by using the formula.
+
+From the solids: 
+```
+         Angularity number =  67- (100*W) / (C*Ga)
+```
+Where, 
+        W is the mean weight of aggregate in the cylinder in grams,  
+        C is the weight of water required to fill the cylinder in grams,  
+        Ga is the specific gravity of aggregate.  
+ 
+
+From the voids: 
+```
+        Angularity number = Volume of water added / (Total volume of cylinder) - 33 
+```
+              
