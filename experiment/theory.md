@@ -10,7 +10,7 @@
 
 From the solids: 
 
-        $$ Angularity number=  67- {{100 \m W} \over {C \m Ga}} $$
+        $$ Angularity number =  67- {{100 \m W} \over {C \m Ga}} $$
 Where, 
         W is the mean weight of aggregate in the cylinder in grams,  
         C is the weight of water required to fill the cylinder in grams,  
