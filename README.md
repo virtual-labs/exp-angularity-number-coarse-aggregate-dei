@@ -3,7 +3,7 @@
 <b>Discipline | <b> Civil Engineering.
 :--|:--|
 <b> Lab | <b> Concrete Technology Lab.
-<b> Experiment|     <b> 10. Angularity number of coarse aggregate.
+<b> Experiment| <b> 10. Angularity number of coarse aggregate.
 
 ### About the Experiment 
 The angularity number of an aggregate is defined as the amount by which the percentage of voids exceeds 33  after compacting the aggregate. Angularity refers to the lack of roundness of aggregate.
@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Varun Pal Singh | Faculty of Engineering | Civil Engineering | Dayalbagh Educational Institute | singhvarun928@gmail.com
-2 | Ana Rehman | Faculty of Engineering  | Civil Engineering | Dayalbagh Educational Institute | anarehmanana@gmail.com
+1 |<b> Varun Pal Singh | <b> Faculty of Engineering | <b> Civil Engineering | <b> Dayalbagh Educational Institute | <b> singhvarun928@gmail.com
+2 | <b> Ana Rehman | <b> Faculty of Engineering  | <b> Civil Engineering | <b> Dayalbagh Educational Institute | <b> anarehmanana@gmail.com
