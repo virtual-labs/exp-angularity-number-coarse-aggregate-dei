@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Angularity refers to the absence of _______in an aggregate.",
+      "question": "Angularity refers to the absence of _______in an aggregate.",
       "answers": {
         "a": "Voids",
         "b": "Irregularity",
@@ -16,7 +16,7 @@
       "difficulty": "beginner"
     },
     {
-    "question": "2. The angularity test of aggregates is conducted to evaluate its ______",
+    "question": "The angularity test of aggregates is conducted to evaluate its ______",
       "answers": {
         "a": "Moisture content",
         "b": "Shape and texture",
@@ -30,7 +30,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3. What is the angularity number of aggregates used in road construction?",
+      "question": "What is the angularity number of aggregates used in road construction?",
       "answers": {
         "a": "0-5",
         "b": "1-10",
@@ -44,7 +44,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "4. The more the angularity number, the more workable will be the concrete mix?",
+      "question": "The more the angularity number, the more workable will be the concrete mix?",
       "answers": {
         "a": "True",
         "b": "False"
@@ -56,7 +56,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "5. What would be the angularity index for a perfectly rounded aggregate?",
+      "question": "What would be the angularity index for a perfectly rounded aggregate?",
       "answers": {
         "a": "a) True",
         "b": "b) False"
@@ -68,7 +68,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "6. Which of the following is a type of angular aggregate?",
+      "question": "Which of the following is a type of angular aggregate?",
       "answers": {
         "a": "Talus",
         "b": "Cuboid rock",
@@ -82,7 +82,7 @@
       "difficulty": "advanced"
     },
     {
-      "question": "7. Which of the following aggregate has least percentage of voids?",
+      "question": "Which of the following aggregate has least percentage of voids?",
       "answers": {
         "a": "Flaky aggregate",
         "b": "Angular aggregate",
