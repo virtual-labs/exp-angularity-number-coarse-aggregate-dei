@@ -1,0 +1,1 @@
+## Angularity Number Coarse Aggregate.
