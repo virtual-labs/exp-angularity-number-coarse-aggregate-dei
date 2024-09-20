@@ -1,1 +1,1 @@
-## Angularity Number Coarse Aggregate.
+## Angularity Number of Coarse Aggregate
