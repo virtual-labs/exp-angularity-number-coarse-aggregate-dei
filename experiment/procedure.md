@@ -1,25 +1,25 @@
 ## Procedure
 
-### Calibration of the metal cylinder- 
+Step 1: Click on "Next Step" button to proceed
 
-Calibration of the cylinder to the nearest gram of the weight of water at 27°C that is required to fill it, shall be done, to avoid the presence of a meniscus above the rim of  water.  
+Step 2: Click on metal cylinder to place it on the weighing balance, then click TARE button to zero the reading
 
-### Preparation of the test sample-   
+Step 3: Click on beaker to pour water into the metal cylinder carefully
 
-a) Take a sufficient quantity of aggregate, at least 10 kg, to be retained between pairs of IS Sieves from the following sets: 20 mm & 16 mm, 16 mm & 12.5 mm, 12.5 mm & 10 mm, 10 mm & 6.3 mm, 6.3 mm & 4.75 mm.  
+Step 4: Click on cylinder to note down the volume of water filled inside
 
-b) The aggregate shall be oven dried at a temperature of 100-110°C for 24 hours in shallow trays and then cooled in an airtight container.  
+Step 5: Click on tray to place it on the balance, then click TARE button again
 
-1. Fill the metal scoop with the aggregate overflowing which has to be placed in the metal cylinder.  
+Step 6: Click on tray to take sufficient quantity of aggregate and weigh them
 
-2. Fill one-third of the cylinder with aggregate and then subject it to 100 blows uniformly at the rate of 2 blows per second using a tamping rod. The rod shall be held vertically, having its rounded end 5 cm above the surface of the aggregate such that it falls freely.  
+Step 7: Click on "assemble" to arrange sieves in descending order with largest aperture at top and pan at bottom
 
-3. Now, perform the same procedure as mentioned above for filling the second and third layers. The third layer should have just enough aggregate to fill the cylinder at level.  
+Step 8: Click on sieve to put the weighed aggregates on the sieve stack
 
-4. After tamping the third layer, the excess aggregate shall be struck off using the tamping rod as a straight edge.  
+Step 9: Click on lid to cover the sieve stack, place on shaker, start the machine, then remove and record aggregates from each sieve
 
-5. Add individual pieces of aggregate which shall be rolled into the surface by rolling the tamping rod until no aggregate lifts the rod off the cylinder’s edge. After that, no downward force shall be exerted on the tamping rod and no aggregate piece shall be introduced into the cylinder.  
+Step 10: Click on tray to fill aggregate in cylinder in three layers, compact each layer with 100 blows using tamping rod, remove excess
 
-6. Weigh the aggregate in the cylinder to the nearest 5 grams.  
+Step 11: Click on cylinder to weigh the aggregates along with the cylinder
 
-7. Make three separate determinations and calculate the mean weight of the aggregate. In case the result of anyone determination differs by more than 25 grams from the mean, three more deductions shall be made on the same sample and then the mean of all six deductions shall be estimated. 
+Step 12: Repeat the process three times and calculate the average weight of aggregates

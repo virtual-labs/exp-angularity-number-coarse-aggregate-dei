@@ -1,1 +1,1 @@
-#### To determine the angularity number of coarse aggregate
+#### To Determine the Angularity Number of Coarse Aggregate
