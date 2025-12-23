@@ -1,43 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ <!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&amp;family=Raleway&amp;display=swap" rel="stylesheet" />
+  <link rel="icon" href="images/favicon.ico" />
+  
+  <!-- Your original CSS files -->
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/main.css" />
+  <link rel="stylesheet" href="css/loading.css" />
+  <link rel="stylesheet" href="responsive.css">
+  <link rel="stylesheet" href="css/header.css">
+  
+  <script src="js/main.js" defer></script>
+  <title>Virtual Labs</title>
+  
+  <style>
+    /* ONLY responsive wrapper - doesn't change your interface */
+    .sim-wrapper {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+    
+    .simulation-container {
+      width: 100%;
+      max-width: 1400px;
+    }
+    
+    /* Make images scale properly */
+    img.board {
+      max-width: 100%;
+      height: auto;
+    }
+    
+    /* Mobile adjustments */
+    @media (max-width: 768px) {
+      table[align="center"] {
+        width: 100% !important;
+      }
+    }
+  </style>
+</head>
 
-    <link
-      href="https://fonts.googleapis.com/css2?family=Open+Sans&amp;family=Raleway&amp;display=swap"
-      rel="stylesheet"
-    />
-    <link rel="icon" href="images/favicon.ico" />
-
-    <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="css/main.css" />
-    <link rel="stylesheet" href="css/loading.css" />
-    <link rel="stylesheet" href="css/header.css">
-
-    <script src="js/main.js" defer></script>
-
-    <title>Virtual Labs</title>
-  </head>
-  <body>
-
-    <!-- <header class="header">
-      <div class="header-img">
-        <img src="images/header.png" alt="virtual-lab-logo" class="vlab-logo" />
-        <h1 style="color: rgb(15, 154, 235);">Virtual labs</h1>
-        <img src="images/dei.jpg" alt="dei-logo" class="dei-logo" />
-      </div>
-      <nav>
-        <ul>
-          <li><a href="#"></a></li>
-          <li><a href="#"></a></li>
-          <li><a href="#"></a></li>
-        </ul>
-      </nav>
-    </header> -->
-
-    <body style="margin: 0; font-family: verdana; color: #000">
+<body style="margin: 0; font-family: verdana; color: #000">
+  <!-- Wrapper for responsiveness -->
+  <div class="sim-wrapper">
+    <div class="simulation-container">
+      
+      <!-- YOUR ORIGINAL CODE STARTS HERE - COMPLETELY UNCHANGED -->
       <table style="align-items: center" align="center">
         <tr>
           <td>
@@ -46,7 +59,7 @@
                 <h3>Angularity Number of Coarse Aggregate</h3>
               </div>
 
-              <!-- Step 1 -->
+                <!-- Step 1 -->
 
               <div
                 class="mainstep"
@@ -2478,6 +2491,18 @@ please use border to place and visualize arrows, transbox and all html elements 
                   onclick="backToStep11()"
                 />
               </div>
+
+              
+            </div>
+          </td>
+        </tr>
+      </table>
+      <!-- YOUR ORIGINAL CODE ENDS HERE -->
+      
+    </div>
+  </div>
+</body>
+</html>
 
             </div>
           </td>
