@@ -16,7 +16,7 @@
 
 3. Angular aggregate is widely used in bituminous construction and flexible pavement because it provides a strong bond and good interlocking. These aggregates require more cement paste due to the presence of large number of voids.
 
-### Formulae
+### Formulas
 The angularity number shall be calculated by using the formula.
 
 #### From the solids:
@@ -37,4 +37,5 @@ $$
 \text{Angularity Number} =
 \frac{\text{Volume of water added}}{\text{Total volume of cylinder}} - 33
 $$
+
 
