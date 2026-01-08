@@ -1,7 +1,7 @@
 /* You CSS goes in here */
 body{
     margin: 0;
-    font-family: verdana;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .subject {
@@ -14,7 +14,7 @@ body{
     top: -23px;
     height: 40px;
     font-size: 20px;
-    font-family: verdana;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     letter-spacing: 1px;
     color: white;
@@ -41,7 +41,7 @@ body{
     font-size: 20px;
     color: #fff;
     text-align: center;
-    background-color: #2150a0;
+    background-color: rgb(20, 117, 228);
 }
 
 #simscreen{
