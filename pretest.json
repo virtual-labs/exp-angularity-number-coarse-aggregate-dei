@@ -1,0 +1,99 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Angularity refers to the absence of _______in an aggregate.",
+      "answers": {
+        "a": "Voids",
+        "b": "Irregularity",
+        "c": "Flakiness",
+        "d": "Roundness"
+      },
+      "explanations": {
+        "d": "Roundness"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+    "question": "The angularity test of aggregates is conducted to evaluate its ______",
+      "answers": {
+        "a": "Moisture content",
+        "b": "Shape and texture",
+        "c": "Particle size distribution",
+        "d": "Resistance to crushing"
+      },
+      "explanations": {
+        "b": "Shape and texture"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the angularity number of aggregates used in road construction?",
+      "answers": {
+        "a": "0-5",
+        "b": "1-10",
+        "c": "0-11",
+        "d": "1-5"
+      },
+      "explanations": {
+        "c": "0-11"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The more the angularity number, the more workable will be the concrete mix?",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "b": "False"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What would be the angularity index for a perfectly rounded aggregate?",
+      "answers": {
+        "a": "a) True",
+        "b": "b) False"
+      },
+      "explanations": {
+        "b": "False"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which of the following is a type of angular aggregate?",
+      "answers": {
+        "a": "Talus",
+        "b": "Cuboid rock",
+        "c": "Pit sand",
+        "d": "Seashore sand"
+      },
+      "explanations": {
+        "a": "Talus"
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Which of the following aggregate has least percentage of voids?",
+      "answers": {
+        "a": "Flaky aggregate",
+        "b": "Angular aggregate",
+        "c": "Rounded aggregate",
+        "d": "Irregular aggregate"
+      },
+      "explanations": {
+        "c": "Rounded aggregate"
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    }
+  ]
+}

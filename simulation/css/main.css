@@ -1,0 +1,114 @@
+/* You CSS goes in here */
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subject {
+    margin: auto auto auto 25px;
+}
+
+#title{
+    position: relative;
+    left: 0px;
+    top: -23px;
+    height: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    letter-spacing: 1px;
+    color: white;
+    background-color: rgb(15, 154, 235);
+}
+
+.mainstep{
+    position: absolute;
+    left: 10px;
+    top: 40px; 
+    height: 558px;
+    width: 788px;
+    background-color: #dce5ec;
+}
+
+.incanvas{
+    margin: 10px 0px 0px 10px;
+    font-size: 16px;
+}
+
+.circlebg{
+    border-radius: 20%;
+    padding: 0px 2px;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: rgb(20, 117, 228);
+}
+
+#simscreen{
+    position: relative;
+    left: 0px;
+    top: -3px;
+    height: 600px;
+    width: 800px;
+    border: 1px solid;
+    background-color: #dce5ec;
+}
+/* ================================
+   RESPONSIVE SCALING — STEP 2 FINAL
+   ================================ */
+
+.sim-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+/* MOBILE */
+@media (max-width: 575px) {
+  .simulation-container {
+    zoom: 40%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* SMALL DEVICES */
+@media (min-width: 576px) and (max-width: 767px) {
+  .simulation-container {
+    zoom: 65%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* TABLETS */
+@media (min-width: 768px) and (max-width: 991px) {
+  .simulation-container {
+    zoom: 80%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* SMALL DESKTOP */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .simulation-container {
+    zoom: 90%;
+    width: 800px;
+    height: 600px;
+  }
+}
+
+/* LANDSCAPE FIX */
+@media (max-width: 767px) and (orientation: landscape) {
+  .simulation-container {
+    zoom: 55%;
+  }
+}
+
+/* SAFETY */
+body {
+  overflow-x: hidden;
+}
