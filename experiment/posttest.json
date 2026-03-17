@@ -112,6 +112,34 @@
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
+    },
+    {
+      "question": "If an aggregate sample has a specific gravity of 2.65, mass of aggregate in cylinder is 4200g, and water required to fill the cylinder is 2800g, what is the angularity number using the formula (67 - 100W/C×Ga)?",
+      "answers": {
+        "a": "4.23",
+        "b": "5.87",
+        "c": "6.45",
+        "d": "7.12"
+      },
+      "explanations": {
+        "b": "5.87"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Which of the following aggregate types would require the most water for the angularity number test due to higher void percentage?",
+      "answers": {
+        "a": "Rounded aggregates with low angularity",
+        "b": "Highly angular aggregates with sharp edges",
+        "c": "Smooth flaky aggregates",
+        "d": "Weathered aggregates"
+      },
+      "explanations": {
+        "b": "Highly angular aggregates with sharp edges"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
     }
   ]
 }
