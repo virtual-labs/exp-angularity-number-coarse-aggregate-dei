@@ -58,13 +58,15 @@
     {
       "question": "What would be the angularity index for a perfectly rounded aggregate?",
       "answers": {
-        "a": "a) True",
-        "b": "b) False"
+        "a": "0",
+        "b": "5",
+        "c": "10",
+        "d": "11"
       },
       "explanations": {
-        "b": "False"
+        "a": "0"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "a",
       "difficulty": "intermediate"
     },
     {
